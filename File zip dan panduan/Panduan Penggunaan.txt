@@ -1,0 +1,22 @@
+2401961412 - Daniel Justine
+
+Pada projek ini saya membuat sistem login menggunakan 3rd-party application yaitu google.
+Saya membuat tampilan login-nya menggunakan sistem laravel jetstream.
+Setelah menggunakan jetstream saya juga menggunakan library socialite.
+
+
+
+
+
+1. Perlunya node.js
+
+2. perlunya library jetstream dan livewire
+
+3. composer require laravel/jetstream
+4. php artisan jetstream:install livewire
+5. npm install
+6. npm run dev
+
+
+GOOGLE_CLIENT_ID=290410858879-itv3hp906m6prms5ekqdinlcd48o12g6.apps.googleusercontent.com
+GOOGLE_CLEINT_SECRET=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
